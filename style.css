@@ -1,0 +1,23 @@
+body{
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(images/earth.png);
+    background-repeat: no-repeat;
+  }
+  .container{
+    max-width: 400px;
+  }
+  .icon {
+      position: relative;
+      top: -50px;
+      border-radius: 50%;
+      width: 100px;
+      margin-bottom: -50px;
+  }
+  h1 {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+  }
